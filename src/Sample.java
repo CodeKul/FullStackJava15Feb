@@ -28,6 +28,10 @@ public class Sample{
         System.out.println("Hello");
     }
 
+    private void show1(){
+        System.out.println("Show 1");
+    }
+
     public int dispaly(){
        return 3;
     }
