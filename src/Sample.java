@@ -1,7 +1,7 @@
 public class Sample{
 
     //primitive datatype
-    int i=0;
+    int i=12321313;
     long l = 0L;
     char c= 'C';
     boolean b = false;
@@ -12,7 +12,6 @@ public class Sample{
 
 
     //non primitive datatypes
-
     Integer integer =9;
     Long aLong= 9L;
     Short aShort = 0;
