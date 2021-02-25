@@ -6,6 +6,10 @@ interface AnimalInterface {
 
 }
 
+
+//if we have 2 or more methods in interface then this is called normal interface
+//if we have 1 method in interface then this is called functional interface
+//if no method in interface then it called marker interface
 public class InterfaceDemo {
 
 

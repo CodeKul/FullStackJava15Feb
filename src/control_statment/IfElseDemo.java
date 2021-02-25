@@ -39,6 +39,8 @@ public class IfElseDemo {
 
         int s = i > 0 ? 100 : 200;
 
+        String w = i > 0 ? "i is positive" : "i is negative";
+
         System.out.println(s);
     }
 }
