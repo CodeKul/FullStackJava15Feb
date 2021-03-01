@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/BusReservation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/abstraction/AbstractDemo.java">
           <value>
             <set />
@@ -44,6 +49,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/control_statment/ScannerDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/control_statment/StarPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/control_statment/StartPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/control_statment/SwitchCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/control_statment/SwitchDemo.java">
           <value>
             <set />
           </value>

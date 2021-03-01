@@ -7,11 +7,11 @@ public class ScannerDemo {
 
     public static void main(String[] args) {
 
-        int i;
+        long i;
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter the number");
-        i = scanner.nextInt();
+        i = scanner.nextLong();
 
         System.out.println("i value"+i);
     }

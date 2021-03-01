@@ -22,7 +22,7 @@ import java.util.Scanner;
             if(random>number){
                 System.out.println("number is High");
             }else if (random<number){
-                System.out.println("Nummber is Low");
+                System.out.println("Number is Low");
             }else {
                 System.out.println("Number is correct and guessing trials are=>"+trials);
             }
