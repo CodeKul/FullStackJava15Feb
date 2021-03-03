@@ -1,8 +1,7 @@
-package test2;
+package inheritance;
 
-import test.Test2;
 
-public class A extends Test2{//Parent class, Base class ,Super class
+public class A {//Parent class, Base class ,Super class
 
 //    int i;
 //    int j;
@@ -12,7 +11,6 @@ public class A extends Test2{//Parent class, Base class ,Super class
     }
     public static void main(String[] args) {
         A a = new A();
-        a.i=0;
     }
 }
 
