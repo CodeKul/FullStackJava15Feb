@@ -1,11 +1,12 @@
+
+
 package abstraction;
 
 interface MyInterface{
 
 }
 
-
-public class MarkerInterface {
+public class MarkerInterface implements MyInterface {
 
     private void show(){
         System.out.println("In show");
