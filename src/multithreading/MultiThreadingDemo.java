@@ -7,7 +7,6 @@ public class MultiThreadingDemo extends Thread {
 
         MultiThreadingDemo obj = new MultiThreadingDemo();
         obj.start();
-
     }
 
     @Override
