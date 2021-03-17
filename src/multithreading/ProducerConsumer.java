@@ -28,7 +28,7 @@ public class ProducerConsumer {
 }
 
 
-class Producer implements Runnable{
+class Producer implements Runnable {
 
     ProducerConsumer producerConsumer;
 
