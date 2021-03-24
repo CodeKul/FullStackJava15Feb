@@ -21,8 +21,8 @@ public class FileHandling {
 
 
             while (i>0){
-                System.out.print((char)i);
 
+                System.out.print((char)i);
                 i= fileInputStream.read();
             }
 //

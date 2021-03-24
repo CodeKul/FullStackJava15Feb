@@ -10,7 +10,7 @@ public class FileReaderAndWriter {
 
         try {
             fileWriter = new FileWriter("FHDemo1.txt");
-            fileWriter.write("Today is Wednesday");
+            fileWriter.write("Toda1y is4 Wednesday 45");
 
             System.out.println("File write successfully..");
 
@@ -30,7 +30,13 @@ public class FileReaderAndWriter {
             int i = fileReader.read();
 
             while (i > 0) {
-                System.out.println((char) i);
+
+//                for(int i =48;i<=57;i++){
+//
+//                }
+                if (Character.isDigit((char) i)) {
+                    System.out.println((char) i);
+                }
                 i = fileReader.read();
             }
 
