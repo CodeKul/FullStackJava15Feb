@@ -26,4 +26,5 @@ Throwable -
  - ArrayList(C)                 PriorityQueue(C)                        -HashSet(C)
  - LinkedList(C)                                                        -LinkedHashset(C)
  - Vector                                                            -SortedSet(I)
+     - stack
                                                                         -TreeSet(C)

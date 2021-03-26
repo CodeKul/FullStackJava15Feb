@@ -90,5 +90,19 @@ public class CollectionDemo {
         linkedList.add(3);
 
 
+        //Vector is synchronized
+        Vector<String> vector = new Vector<>();
+        vector.add("Ravi");
+        vector.add("Prakash");
+        vector.add("Raj");
+
+        System.out.println(vector.firstElement());
+        System.out.println(vector.contains("Ravi"));
+        System.out.println(vector.get(1));
+//
+//        vector.forEach(s->{
+//            System.out.println(s);
+//        });
+
     }
 }
