@@ -6,7 +6,7 @@ public class FileHandling {
 
     public static void main(String[] args) throws IOException {
 
-            FileOutputStream fileOutputStream = new FileOutputStream("/home/vaibhav/workspace/FullStackJava15FEB/src/filehandling/FHDemo.txt");
+            FileOutputStream fileOutputStream = new FileOutputStream("/home/vaibhav/workspace/FullStackJava15FEB/src/filehandling/FHDemo.pdf");
             String s = "Today is Tuesday";
             byte[] arr = s.getBytes();
             fileOutputStream.write(arr);
@@ -15,7 +15,7 @@ public class FileHandling {
 
 
 
-            FileInputStream  fileInputStream = new FileInputStream("FHDemo.txt");
+            FileInputStream  fileInputStream = new FileInputStream("/home/vaibhav/workspace/FullStackJava15FEB/src/filehandling/FHDemo.pdf");
             int i = fileInputStream.read();
             System.out.println(i);
 
