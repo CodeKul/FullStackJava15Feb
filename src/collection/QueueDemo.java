@@ -18,7 +18,7 @@ public class QueueDemo {
         System.out.println(queue.peek());
         System.out.println(queue.poll());//null
         System.out.println(queue.remove());//exception
-        queue.clear();
+//        queue.clear();
         System.out.println(queue);
 
 
