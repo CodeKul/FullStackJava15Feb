@@ -24,7 +24,7 @@ public class CollectionDemo {
 //            System.out.println(arr[i]);
 //        }
 
-        List<Integer> list = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();//default size 10 -> 50% grow
 
         list.add(1);
         list.add(2);
@@ -99,6 +99,7 @@ public class CollectionDemo {
         System.out.println(vector.firstElement());
         System.out.println(vector.contains("Ravi"));
         System.out.println(vector.get(1));
+        System.out.println(vector.capacity());
 //
 //        vector.forEach(s->{
 //            System.out.println(s);
