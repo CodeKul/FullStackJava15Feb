@@ -7,7 +7,7 @@ import java.util.List;
 
 public class ComparatorDemo {
 
-    int id;
+    int id=0;
     String name;
     String address;
 

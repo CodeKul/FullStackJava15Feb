@@ -15,7 +15,6 @@ public class PDFDemo {
 
         Document document = new Document();
 
-
         try {
             PdfWriter pdfWriter = PdfWriter.getInstance(document, new FileOutputStream("sample.pdf"));
 
@@ -27,7 +26,6 @@ public class PDFDemo {
 
             document.close();
             pdfWriter.close();
-
 
         } catch (DocumentException e) {
             e.printStackTrace();

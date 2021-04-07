@@ -77,3 +77,8 @@
         5. print length of the file in bytes(use length())
 
    2 . create a pdf file and write a data into a file
+
+
+   String ->
+
+   1 . get input from user of string and reverse the string

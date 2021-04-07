@@ -23,7 +23,7 @@ public class StringDemo {
         String str4 = "Java";
         String str5 =  new String("java");
         String str6 =  new String("java");
-
+        
         System.out.println(str6 == str5);// reference
 
         System.out.println(str3.equals(str5));//value
