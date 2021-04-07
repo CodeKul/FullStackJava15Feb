@@ -79,8 +79,6 @@
    2 . create a pdf file and write a data into a file
 
 
-   String ->
-
    1 . get input from user of string and reverse the string
 
    2. Write a program to remove all the duplicate characters from a given input String,
