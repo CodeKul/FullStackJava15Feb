@@ -42,6 +42,7 @@ public class LambdaExpression {
 @FunctionalInterface
 interface MyInterface1{
     String show();
+
 }
 
 @FunctionalInterface
