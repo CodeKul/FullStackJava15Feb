@@ -7,7 +7,7 @@ public class StringBuilderDemo {
         StringBuilder stringBuilder =  new StringBuilder("JavaProgramming");
         stringBuilder.append("Java");
 
-        System.out.println(stringBuilder.);
+//        System.out.println(stringBuilder.);
 
     }
 }

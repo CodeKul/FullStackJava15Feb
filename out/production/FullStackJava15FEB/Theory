@@ -28,3 +28,14 @@ Throwable -
  - Vector                                                            -SortedSet(I)
      - stack
                                                                         -TreeSet(C)
+
+
+    Features Of Java 8
+
+    - Lambada Expression
+    - default and static keyword in interface
+    - functional Programming
+    - Method References
+    - Local Date Time
+    - Optional Keyword
+    - Stream Api
